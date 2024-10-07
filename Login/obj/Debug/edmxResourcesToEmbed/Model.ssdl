@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RCDATA8_61458Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'RCDATA8_61458.dbo.TBLUSERS' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="TBLUSERS">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="USERNAME" />
+      <PropertyRef Name="PASSWORD" />
+    </Key>
+    <Property Name="ID" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="FIRSTNAME" Type="varchar" MaxLength="50" />
+    <Property Name="LASTNAME" Type="varchar" MaxLength="50" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="50" />
+    <Property Name="USERNAME" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PASSWORD" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="RCDATA8_61458ModelStoreContainer">
+    <EntitySet Name="TBLUSERS" EntityType="Self.TBLUSERS" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [TBLUSERS].[ID] AS [ID], 
+    [TBLUSERS].[FIRSTNAME] AS [FIRSTNAME], 
+    [TBLUSERS].[LASTNAME] AS [LASTNAME], 
+    [TBLUSERS].[EMAIL] AS [EMAIL], 
+    [TBLUSERS].[USERNAME] AS [USERNAME], 
+    [TBLUSERS].[PASSWORD] AS [PASSWORD]
+    FROM [dbo].[TBLUSERS] AS [TBLUSERS]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

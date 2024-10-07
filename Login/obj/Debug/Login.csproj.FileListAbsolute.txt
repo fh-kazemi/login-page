@@ -1,0 +1,17 @@
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\bin\Debug\Login.exe.config
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\bin\Debug\Login.exe
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\bin\Debug\Login.pdb
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.Properties.Resources.resources
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.csproj.GenerateResource.cache
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.exe
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.pdb
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\bin\Debug\EntityFramework.dll
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\bin\Debug\EntityFramework.SqlServer.dll
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\bin\Debug\EntityFramework.xml
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\bin\Debug\EntityFramework.SqlServer.xml
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.csproj.CopyComplete
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.LoginForm.resources
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.RegisterForm.resources
+G:\Mitarbeiter\Kazemi\Unterrichten\Selbst\Login\LoginSolution\Login\obj\Debug\Login.HomePage.resources
